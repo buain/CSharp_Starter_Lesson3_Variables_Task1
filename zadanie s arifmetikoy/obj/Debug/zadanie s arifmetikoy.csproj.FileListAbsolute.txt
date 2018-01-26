@@ -1,0 +1,7 @@
+D:\NET\Projects\Lesson3\Task2\zadanie s arifmetikoy\zadanie s arifmetikoy\bin\Debug\zadanie s arifmetikoy.exe.config
+D:\NET\Projects\Lesson3\Task2\zadanie s arifmetikoy\zadanie s arifmetikoy\bin\Debug\zadanie s arifmetikoy.exe
+D:\NET\Projects\Lesson3\Task2\zadanie s arifmetikoy\zadanie s arifmetikoy\bin\Debug\zadanie s arifmetikoy.pdb
+D:\NET\Projects\Lesson3\Task2\zadanie s arifmetikoy\zadanie s arifmetikoy\obj\Debug\zadanie s arifmetikoy.csprojResolveAssemblyReference.cache
+D:\NET\Projects\Lesson3\Task2\zadanie s arifmetikoy\zadanie s arifmetikoy\obj\Debug\zadanie s arifmetikoy.csproj.CoreCompileInputs.cache
+D:\NET\Projects\Lesson3\Task2\zadanie s arifmetikoy\zadanie s arifmetikoy\obj\Debug\zadanie s arifmetikoy.exe
+D:\NET\Projects\Lesson3\Task2\zadanie s arifmetikoy\zadanie s arifmetikoy\obj\Debug\zadanie s arifmetikoy.pdb
